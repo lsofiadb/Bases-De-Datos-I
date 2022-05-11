@@ -5,22 +5,25 @@ Fecha de cierre: 25 de Junio :calendar:
 
 Introducción e implicaciones computacionales, SQL básico.
 
-Sesiones de clase :bookmark_tabs:
+<details>
+<summary>Sesiones de clase :bookmark_tabs:</summary>
 
 - [27/04/2022](.//PrimerCorte/27-04-2022.md)
 - [02/05/2022](.//PrimerCorte/02-05-2022.md)
 - [04/05/2022](.//PrimerCorte/04-05-2022.md)
 - [09/05/2022](.//PrimerCorte/09-05-2022.md)
 
+</details>
 
-## Segundo Corte: :triangular_ruler:
+
+## Segundo Corte :triangular_ruler:
 
 Fecha de cierre: 6 de Agosto :calendar:
 
 SQL intermedio.
 Conexión e interfaces, DML.
 
-## Tercer Corte: :triangular_ruler:
+## Tercer Corte :triangular_ruler:
 
 Fecha de cierre: 10 de Agosto :calendar:
 
