@@ -8,10 +8,10 @@
 <details>
 <summary>Sesiones de clase :pencil:</summary>
 
-- [27/04/2022](.//PrimerCorte/27-04-2022.md)
-- [02/05/2022](.//PrimerCorte/02-05-2022.md)
-- [04/05/2022](.//PrimerCorte/04-05-2022.md)
-- [09/05/2022](.//PrimerCorte/09-05-2022.md)
+- [27/04/2022](.//PrimerCorte/Apuntes/27-04-2022.md)
+- [02/05/2022](.//PrimerCorte/Apuntes/02-05-2022.md)
+- [04/05/2022](.//PrimerCorte/Apuntes/04-05-2022.md)
+- [09/05/2022](.//PrimerCorte/Apuntes/09-05-2022.md)
 
 </details>
 
