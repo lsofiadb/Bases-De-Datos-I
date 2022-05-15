@@ -1,12 +1,12 @@
-# Bases de datos I :floppy_disk:
-## Primer Corte :triangular_ruler:
+# Bases de datos I :floppy_disk::card_index:
+## Primer Corte :book: 
 
-Fecha de cierre: 25 de Junio :calendar:
+### :pushpin: *Fecha de cierre: 25 de Junio* :calendar:
 
-Introducción e implicaciones computacionales, SQL básico.
+#### Introducción e implicaciones computacionales, SQL básico.
 
 <details>
-<summary>Sesiones de clase :bookmark_tabs:</summary>
+<summary>Sesiones de clase :pencil:</summary>
 
 - [27/04/2022](.//PrimerCorte/27-04-2022.md)
 - [02/05/2022](.//PrimerCorte/02-05-2022.md)
@@ -16,15 +16,14 @@ Introducción e implicaciones computacionales, SQL básico.
 </details>
 
 
-## Segundo Corte :triangular_ruler:
+## Segundo Corte :microscope:
 
-Fecha de cierre: 6 de Agosto :calendar:
+### :pushpin: *Fecha de cierre: 6 de Agosto* :calendar:
 
-SQL intermedio.
-Conexión e interfaces, DML.
+#### SQL intermedio, conexión e interfaces, DML.
 
-## Tercer Corte :triangular_ruler:
+## Tercer Corte :telescope:
 
-Fecha de cierre: 10 de Agosto :calendar:
+### :pushpin: *Fecha de cierre: 10 de Agosto* :calendar:
 
-SQL avanzado. 
+#### SQL avanzado. 
