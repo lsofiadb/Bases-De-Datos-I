@@ -17,7 +17,7 @@
 - [18/05/2022](.//PrimerCorte/Apuntes/18-05-2022.md)
 - [23/05/2022](.//PrimerCorte/Apuntes/23-05-2022.md)
 - [25/05/2022](.//PrimerCorte/Apuntes/25-05-2022.md)
-
+- [06/06/2022](.//PrimerCorte/Apuntes/06-06-2022.md)
 
 </details>
 
